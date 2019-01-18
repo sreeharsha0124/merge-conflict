@@ -13,6 +13,11 @@ Initial Security()
 Additional Security()
 {
  //Security code
+
+}
+feaature2()
+{
+  //Sample Code for Feature 2
 }
 
 
